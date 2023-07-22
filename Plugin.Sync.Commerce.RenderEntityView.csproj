@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <PackageReference Include="RazorLight" Version="2.0.0-beta2" />
-    <PackageReference Include="RestSharp" Version="106.6.10" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="Sitecore.Commerce.Core">
       <Version>4.0.72</Version>
     </PackageReference>
